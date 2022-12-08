@@ -1,4 +1,4 @@
-👋 Hi, I’m @catherinecsun! I am a senior quantititive ecologist/data scientist with the Zambian Carnivore Programme!I'm based in Zambia, but originally hail from the east coast of the US. I've also spent time on the west coast in Canada. I analyse camera trap, transect, and demographic data to understand the population status and trends of wildlife that we are trying to conserve. I also enjoy putting on my hiking shoes and doing field work!
+👋 Hi, I’m @catherinecsun! I am a quantititive ecologist/data scientist with the Zambian Carnivore Programme! I'm based in Zambia, but originally hail from the east coast of the US. I've also spent time on the west coast in Canada. I analyse camera trap, transect, and demographic data to understand the population status and trends of wildlife that we are trying to conserve. I also enjoy putting on my hiking shoes and doing field work!
 
 👀 I’m interested in data viz, linear models, Bayesian approaches, AI, new statistical analyses, and of course, applications to wildlife conservation :)
 
